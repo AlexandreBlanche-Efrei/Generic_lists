@@ -1,0 +1,4 @@
+#include "gen_struct.h"
+
+IMPLEMENT_GENERIC_STRUCT(int)
+IMPLEMENT_GENERIC_STRUCT(string)
