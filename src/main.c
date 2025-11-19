@@ -33,6 +33,7 @@ int main() {
     t_int_list li = create_empty_int_list();
     for (int i = 1; i <= 10; i++)
         push_back_int_list(&li, i);
+    printf("int list li = ");
     print_int_list(&li);
     destroy_int_list(&li);
 
@@ -41,6 +42,7 @@ int main() {
     push_front_string_list(&ls, "EFG");
     push_front_string_list(&ls, "HIJKL");
     push_front_string_list(&ls, "MNOP");
+    printf("string list ls = ");
     print_string_list(&ls);
     destroy_string_list(&ls);
 
