@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#include "struct_float.h"
-#include "struct_string.h"
+#include "structures/struct_float.h"
+#include "structures/struct_string.h"
 
 int main() {
     str_string s;

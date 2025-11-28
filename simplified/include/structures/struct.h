@@ -1,5 +1,5 @@
-#ifndef FILE_H
-#define FILE_H
+#ifndef STRUCT_H
+#define STRUCT_H
 // modifier la constante FILE_H
 
 /////////////////////////////

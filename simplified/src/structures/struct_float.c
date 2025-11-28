@@ -1,4 +1,4 @@
-#include "struct_string.h"
+#include "structures/struct_float.h"
 
 // Ne pas modifier
 

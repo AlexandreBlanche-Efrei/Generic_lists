@@ -1,5 +1,5 @@
-#ifndef FILE_STRING_H
-#define FILE_STRING_H
+#ifndef STRUCT_STRING_H
+#define STRUCT_STRING_H
 
 /////////////////////////////
 typedef char* string;

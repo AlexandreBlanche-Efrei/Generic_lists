@@ -1,5 +1,5 @@
 all:
-	@cc *.c -o main -Wno-macro-redefined
+	@cc src/*.c src/structures/*.c -o main -I include/ -Wno-macro-redefined
 
 clean:
 	@rm main

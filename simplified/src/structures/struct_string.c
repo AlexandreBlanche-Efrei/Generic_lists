@@ -1,4 +1,4 @@
-#include "struct.h" // remplacer par votre fichier .h
+#include "structures/struct_string.h"
 
 // Ne pas modifier
 

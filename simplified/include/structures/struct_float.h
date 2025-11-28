@@ -1,5 +1,5 @@
-#ifndef FILE_FLOAT_H
-#define FILE_FLOAT_H
+#ifndef STRUCT_FLOAT_H
+#define STRUCT_FLOAT_H
 
 /////////////////////////////
 #define T float

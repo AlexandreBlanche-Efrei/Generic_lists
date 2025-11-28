@@ -1,4 +1,4 @@
-#include "struct_float.h"
+#include "structures/struct.h" // remplacer par votre fichier .h
 
 // Ne pas modifier
 
